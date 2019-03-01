@@ -1,0 +1,16 @@
+.AppBarContainer {
+    display: flex;
+    justifyContent: center;
+    alignItems: flex-end;
+}
+
+.itemNav
+{
+    order: revert;
+    align-self: center;
+
+}
+
+.buttonColor{
+     color: rgb(200,200,200) !important; 
+}
